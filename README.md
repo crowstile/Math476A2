@@ -8,15 +8,21 @@ If the KGMA was run using the same route for both inputs, the out put would be t
 ## 4b)  
 I actually feel pretty dissappointed with myself that I had to brute force this.  I do feel like there is a statement about the union of the sets from each 2nd generation
 
-Generation 0
+#### Generation 0
 
-Generation 1
+#### Generation 1
+After 1 generation of the algorithm, all permutations except for R1R4 results in an identical route. In the images below, purple is the edges common to all routes, green edges are commmon to both parents and blue are the edges chose by the algorithm.
+
 | R1R2 | R1R3 | R1R4 | R2R3 | R2R4 | R3R4 |
 |:---:|:---:|:---:|:---:|:---:|:---:|  
 | [![R1R2](a2q4ur1r2.png)](a2q4ur1r2.png) | [![R1R3](a2q4ur1r3.png)](a2q4ur1r3.png) | [![R1R4](a2q4ur1r4.png)](a2q4ur1r4.png) | [![R2R3](a2q4ur2r3.png)](a2q4ur2r3.png) | [![R2R4](a2q4ur2r4.png)](a2q4ur2r4.png) | [![R3R4](a2q4ur3r4.png)](a2q4ur3r4.png) | 
 
+#### Generation 2
+All in the generation of parents are identical except for R1R4. However, since all of the unique edges that R1R4 can contribute as a parent have a higher cost than the edges contributed by all the other identical parents, all the possible permutations result in one of the two pictures below. Purple edges are the edges in common to both parents and blue are edges selected by the algorithm from the unique contributed edges from the parents.
 
-Generation 2
+| R1R4 not a parent | R1R4 is a parent | 
+|:---:|:---:|  
+| [![R1R2](a2q4ur1r2.png)](a2q4usall.png) | [![R1R3](a2q4usr1r4.png)](a2q4ur1r4.png) |  
 
 ### Edge Lengths  
 
