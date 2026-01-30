@@ -11,7 +11,7 @@ I actually feel pretty dissappointed with myself that I had to brute force this.
 Generation 0
 
 Generation 1
-[![R1R2](a2q2ur1r2.png)](a2q2ur1r2.png)
+[![R1R2](./a2q2ur1r2.png)](./a2q2ur1r2.png)
 
 Generation 2
 
