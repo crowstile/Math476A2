@@ -132,8 +132,8 @@ All in the generation of parents are identical except for R1R4. However, since a
 | AB = $\sqrt{65}$ | EH = $\sqrt{65}$ | EI = $\sqrt{65}$ | AI = $\sqrt{73}$ | BE = $\sqrt{73}$ | FG = $\sqrt{74}$ | DG = $\sqrt{80}$ | EG = $\sqrt{90}$ | AG = $\sqrt{106}$ |
 
 ####  Set B R2R4
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | 
+|:---:|:---:|:---:|:---:|
 | BH = $\sqrt{2}$ | AF = $\sqrt{4}$ | CE = $\sqrt{4}$ | DH = $\sqrt{5}$ |
 
 #### Set N for R2R4
