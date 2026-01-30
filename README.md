@@ -137,6 +137,8 @@ All in the generation of parents are identical except for R1R4. However, since a
 | BH = $\sqrt{2}$ | AF = $\sqrt{4}$ | CE = $\sqrt{4}$ | DH = $\sqrt{5}$ |
 
 #### Set N for R2R4
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |  
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|  
 | FJ = $\sqrt{2}$ | AE = $\sqrt{4}$ | GI = $\sqrt{5}$ | AJ = $\sqrt{10}$  | BI = $\sqrt{16}$ | BG = $\sqrt{37}$ | CI = $\sqrt{37}$| GJ = $\sqrt{52}$ |
 
 #### Set O for R2R4
