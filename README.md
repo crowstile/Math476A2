@@ -11,7 +11,10 @@ I actually feel pretty dissappointed with myself that I had to brute force this.
 Generation 0
 
 Generation 1
-[![R1R2](a2q4ur1r2.png)](a2q4ur1r2.png)
+| R1R2 | R1R3 | R1R4 | R2R3 | R2R4 | R3R4 |
+|:---:|:---:|:---:|:---:|:---:|
+| [![R1R2](a2q4ur1r2.png)](a2q4ur1r2.png) | [![R1R3](a2q4ur1r3.png)](a2q4ur1r3.png) | [![R1R4](a2q4ur1r4.png)](a2q4ur1r4.png) | [![R2R3](a2q4ur2r3.png)](a2q4ur2r3.png) | [![R2R4](a2q4ur2r4.png)](a2q4ur2r4.png) | [![R3R4](a2q4ur3r4.png)](a2q4ur3r4.png) | 
+
 
 Generation 2
 
