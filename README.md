@@ -43,7 +43,7 @@ Set O R1R2
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | FJ = $\sqrt{2}$ | AE = $\sqrt{4}$ | AC = $\sqrt{8}$ | EJ = $\sqrt{10}$ | DF = $\sqrt{18}$ | DJ = $\sqrt{20}$ | GJ = $\sqrt{52}$ | CG = $\sqrt{58}$ |
 
-Set N R1R2
+Set N R1R2  
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | CJ = $\sqrt{2}$ | FJ = $\sqrt{2}$ | AE = $\sqrt{4}$ | CF = $\sqrt{4}$ | 
 | AC = $\sqrt{8}$ | EF = $\sqrt{8}$ | AJ = $\sqrt{10}$ | EJ = $\sqrt{10}$ | BD = $\sqrt{13}$ |  DF = $\sqrt{18}$ | DJ = $\sqrt{20}$ | HJ = $\sqrt{25}$ |
