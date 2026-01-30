@@ -6,9 +6,6 @@ Just used for latex in markdown
 If the KGMA was run using the same route for both inputs, the out put would be the input route.  This is due to the algorithm retaing the set of edges common to both parents in the set, B.  In this case, the union of both parents would be all of their respective edges because they completely share all edges. Thus the child would be composed of the edges of the input $P_1$.  
 
 ## 4b)  
-I actually feel pretty dissappointed with myself that I had to brute force this.  I do feel like there is a statement about the union of the sets from each 2nd generation
-
-#### Generation 0
 
 #### Generation 1
 After 1 generation of the algorithm, all permutations except for R1R4 results in an identical route. In the images below, purple is the edges common to all routes, green edges are commmon to both parents and blue are the edges chose by the algorithm.
@@ -59,11 +56,11 @@ All in the generation of parents are identical except for R1R4. However, since a
 ####  Set B R1R2
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| BH = $\sqrt{2}$ | AF = $\sqrt{4}$ | CE = $\sqrt{4}$ | DH = $\sqrt{5}$ |GI = $\sqrt{5}$ | BI = $\sqrt{16} |
+| BH = $\sqrt{2}$ | AF = $\sqrt{4}$ | CE = $\sqrt{4}$ | DH = $\sqrt{5}$ |GI = $\sqrt{5}$ | BI = $\sqrt{16}$ |
 
 #### Set O R1R2
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |  
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|  
 | FJ = $\sqrt{2}$ | AE = $\sqrt{4}$ | AC = $\sqrt{8}$ | EJ = $\sqrt{10}$ | DF = $\sqrt{18}$ | DJ = $\sqrt{20}$ | GJ = $\sqrt{52}$ | CG = $\sqrt{58}$ |
 
 #### Set N R1R2  
