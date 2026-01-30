@@ -22,7 +22,7 @@ All in the generation of parents are identical except for R1R4. However, since a
 
 | R1R4 not a parent | R1R4 is a parent | 
 |:---:|:---:|  
-| [![R1R2](a2q4ur1r2.png)](a2q4usall.png) | [![R1R3](a2q4usr1r4.png)](a2q4ur1r4.png) |  
+| [![R1R2](a2q4usall.png)](a2q4usall.png) | [![R1R3](a2q4usr1r4.png)](a2q4ur1r4.png) |  
 
 ### Edge Lengths  
 
