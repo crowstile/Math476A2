@@ -156,6 +156,8 @@ All in the generation of parents are identical except for R1R4. However, since a
  | BG = $\sqrt{37}$ | CI = $\sqrt{37} |
  
 #### Set O for R3R4
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |  
+|:---:|:---:|:---:|:---:|:---:|  
 | FJ = $\sqrt{2}$ | AE = $\sqrt{4}$| AJ = $\sqrt{10}$ | EJ = $\sqrt{10}$ | DJ = $\sqrt{20}$ |
 
 #### Set N for R3R4
